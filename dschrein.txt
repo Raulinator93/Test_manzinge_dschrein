@@ -1,1 +1,9 @@
-Da Antzinger is krass
+git clone
+Hinzufügen des Files dschrein.txt
+git add dschrein.txt
+git commit
+Editor öffnet sich:
+Message: dschrein.txt hinzugefügt/.gitignore gecleard
+Strg+C
+Eingabe: :wq
+git push
